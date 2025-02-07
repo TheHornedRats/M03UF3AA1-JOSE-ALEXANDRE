@@ -3,8 +3,8 @@
 #include <iostream>
 #include <fstream>
 
-void guardarPartida(const std::string& nombreArchivo, char turnoActual) {
-	std::ofstream archivo(nombreArchivo + ".tictacsave", std::ios::binary);
+void guardarPartida(const std::string& nombreArchivo, char turnoActual) {//Esta función guarda la partida con el nombre que tú escribas y añade ".tictacsave" para guardar el archivo
+	std::ofstream archivo(nombreArchivo + ".tictacsave");
 	if (!archivo)
 	{
 		std::cerr << "Error al abrir el archivo, no se pudo guardar" << std::endl;
@@ -19,7 +19,7 @@ void guardarPartida(const std::string& nombreArchivo, char turnoActual) {
 	std::cout << "Partida guardada correctamente en:" << nombreArchivo << ".tictacsave" << std::endl;
 }
 
-bool cargarPartida(const std::string& nombreArchivo, char& turnoActual) {
+bool cargarPartida(const std::string& nombreArchivo, char& turnoActual) { //Esta función busca archivos con el nombre que has escrito
 	std::ifstream archivo(nombreArchivo + ".tictacsave", std::ios::binary);
 	if (!archivo)
 	{

@@ -1,6 +1,6 @@
 #include "Tablero.h"
 
-void mostrarTablero() {
+void mostrarTablero() {//En esta función mediante dos for (para poner los limites verticales y horizontales) 
 	std::cout <<  "--------------" << std::endl;
 	for (int i = 0; i < TAMANO_TABLERO; i++)
 	{

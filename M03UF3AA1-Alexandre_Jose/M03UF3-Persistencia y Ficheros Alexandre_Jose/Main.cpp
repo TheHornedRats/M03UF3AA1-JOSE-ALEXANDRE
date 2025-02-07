@@ -5,7 +5,7 @@
 #include "Victoria.h"
 #include <ctime>
 #include "Guardado.h"
-#include "IniciarJuego.h"
+#include "GameLoop.h"
 
 int main() {
 
@@ -19,7 +19,7 @@ int main() {
 	
 		std::cout << "Bienvenido al tres en raya, ¿seras capaz de ganar?" << std::endl;
 		std::cout << "Opciones:" << std::endl;
-		std::cout << "1. Colocar ficha" << std::endl;
+		std::cout << "1. Empezar partida" << std::endl;
 		std::cout << "2. Cargar partida" << std::endl;
 		std::cout << "3. Volver al menu principal" << std::endl;
 		std::cout << "Elige una opcion: ";
@@ -43,7 +43,7 @@ int main() {
 			inicializarTablero();
 
 		}
-		iniciarJuego(turnoActual);
+		GameLoop(turnoActual);
 
 	}
 	std::cout << "Gracias por jugar, hasta nunca" << std::endl;

@@ -130,7 +130,7 @@
     <ClCompile Include="Draw.cpp" />
     <ClCompile Include="Guardado.cpp" />
     <ClCompile Include="IA.cpp" />
-    <ClCompile Include="IniciarJuego.cpp" />
+    <ClCompile Include="GameLoop.cpp" />
     <ClCompile Include="Jugador.cpp" />
     <ClCompile Include="Tablero.cpp" />
     <ClCompile Include="Main.cpp" />
@@ -141,7 +141,7 @@
     <ClInclude Include="Config.h" />
     <ClInclude Include="Guardado.h" />
     <ClInclude Include="IA.h" />
-    <ClInclude Include="IniciarJuego.h" />
+    <ClInclude Include="GameLoop.h" />
     <ClInclude Include="Jugador.h" />
     <ClInclude Include="Tablero.h" />
   </ItemGroup>

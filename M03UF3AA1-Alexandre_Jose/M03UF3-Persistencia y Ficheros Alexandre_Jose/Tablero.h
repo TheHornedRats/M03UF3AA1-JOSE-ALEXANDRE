@@ -5,10 +5,10 @@
 #include "Config.h"
 
 
-//aqui estamos definiendo el tablero usando las constantes de Config.h
+//Aqui estamos definiendo el tablero usando las constantes de Config.h
 extern char tablero[TAMANO_TABLERO][TAMANO_TABLERO];
 
-//declaro la funcion para mostrar el tablero
+//Declaramos las funciones para mostrar el tablero e inicializarlo
 void mostrarTablero();
 void inicializarTablero();
 
