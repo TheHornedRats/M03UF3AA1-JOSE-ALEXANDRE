@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JoseArguesoPonce\\Documents\\MP03\\Project1\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\",
+  "WorkspaceRootPath": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|C:\\Users\\JoseArguesoPonce\\Documents\\MP03\\Project1\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|solutionrelative:M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|solutionrelative:M03UF3-Persistencia y Ficheros Alexandre_Jose\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Jugador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|solutionrelative:M03UF3-Persistencia y Ficheros Alexandre_Jose\\Jugador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\IA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|solutionrelative:M03UF3-Persistencia y Ficheros Alexandre_Jose\\IA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|solutionrelative:M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\GameLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|solutionrelative:M03UF3-Persistencia y Ficheros Alexandre_Jose\\GameLoop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Victoria.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|solutionrelative:M03UF3-Persistencia y Ficheros Alexandre_Jose\\Victoria.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Tablero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|solutionrelative:M03UF3-Persistencia y Ficheros Alexandre_Jose\\Tablero.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{140FFFB3-8956-4480-B304-B84E58D486B3}|M03UF3-Persistencia y Ficheros Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose.vcxproj|solutionrelative:M03UF3-Persistencia y Ficheros Alexandre_Jose\\Draw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Guardado.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.cpp",
+              "RelativeDocumentMoniker": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.cpp",
+              "RelativeToolTip": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:00:04.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IA.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\IA.cpp",
+              "RelativeDocumentMoniker": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\IA.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\IA.cpp",
+              "RelativeToolTip": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\IA.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:11:07.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jugador.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Jugador.cpp",
+              "RelativeDocumentMoniker": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Jugador.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Jugador.cpp",
+              "RelativeToolTip": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Jugador.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:11:08.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\JoseArguesoPonce\\Documents\\MP03\\Project1\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Main.cpp",
               "RelativeDocumentMoniker": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Main.cpp",
-              "ToolTip": "C:\\Users\\JoseArguesoPonce\\Documents\\MP03\\Project1\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Main.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Main.cpp",
               "RelativeToolTip": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAKAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-07T11:14:17.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tablero.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Tablero.cpp",
+              "RelativeDocumentMoniker": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Tablero.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Tablero.cpp",
+              "RelativeToolTip": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Tablero.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:11:09.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Victoria.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Victoria.cpp",
+              "RelativeDocumentMoniker": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Victoria.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Victoria.cpp",
+              "RelativeToolTip": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Victoria.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:11:11.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameLoop.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\GameLoop.cpp",
+              "RelativeDocumentMoniker": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\GameLoop.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\GameLoop.cpp",
+              "RelativeToolTip": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\GameLoop.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:11:13.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Draw.cpp",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Draw.cpp",
+              "RelativeDocumentMoniker": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Draw.cpp",
+              "ToolTip": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Draw.cpp",
+              "RelativeToolTip": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Draw.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:11:12.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Guardado.h",
+              "DocumentMoniker": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.h",
+              "RelativeDocumentMoniker": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.h",
+              "ToolTip": "C:\\Users\\hornedrat\\Documents\\GitHub\\M03UF3AA1-JOSE-ALEXANDRE\\M03UF3AA1-Alexandre_Jose\\M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.h",
+              "RelativeToolTip": "M03UF3-Persistencia y Ficheros Alexandre_Jose\\Guardado.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-15T19:02:52.894Z",
               "EditorCaption": ""
             }
           ]
